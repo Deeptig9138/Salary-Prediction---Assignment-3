@@ -1,9 +1,13 @@
 # Salary Prediction using Polynomial Regression
 
 **Name:** Deepti Gupta
+
 **Registration Number:** 23MEI10007
+
 **Application Number:** IN26011816 
+
 **Batch Number:** 1A  
+
 **Email:** deepti.23mei10007@vitbhopal.ac.in
 
 ## Objective
